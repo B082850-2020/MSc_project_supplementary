@@ -1,7 +1,7 @@
 # Msc_project_supplementary
-# Bioinformatics final project codes and other supplementary materials
+## Bioinformatics final project codes and other supplementary materials
 
-# Plot:
+## Plot:
 #   1.COVID_vs_gnomad_vep_impact.pdf
 #     - Evolutionary age distribution of different impact variants for each COVID-19 GWAS study and its control 
 #     - High, low, moderate and modifier denote variant impact with different severity. The first three are coding-region related variants,     #        while modifiers are non-coding region related variants. 
